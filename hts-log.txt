@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Mar 2026 12:55:20 at https://prottoyon.live/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prottoyon.live/ -O1 "C:\Users\USER\Videos\https___prottoyon.live_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:56:34	Error: 	"Not Found" (404) at link https://prottoyon.live/frontend/images/menu-bg.png (from https://prottoyon.live/frontend/css/occStyle.css)
+12:56:34	Error: 	"Not Found" (404) at link https://prottoyon.live/frontend/images/menu-bg1.png (from https://prottoyon.live/frontend/css/occStyle.css)
+12:56:49	Error: 	"Not Found" (404) at link https://prottoyon.live/notice/15/"https://minland.gov.bd/sites/default/files/files/minland.portal.gov.bd/notices/c3f68ffb_5cfc_4f66_b7f5_579f463d996e/WhatsApp Image 2022-01-18 at 10.31.24 AM-converted.pdf">https://minland.gov.bd/sites/default/files/files/minland.portal.gov.bd/notices/c3f68ffb_5cfc_4f66_b7...</a><br></p>%3Fjadewits_media_id%3D1025971" (from https://prottoyon.live/notice/15/ই-নামজারি-সিস্টেমের-সাথে-অনলাইনে-উত্তরাধিকার-সনদ-প্রদান-সিস্টেম-প্রত্যয়ন-ইন্টিগ্রেশন-প্রসঙ্গে)
+12:56:53	Warning: 	can not create directory to C:/Users/USER/Videos/https___prottoyon.live_/prottoyon.live/notice/9/_http_/www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৭৪ ১৭-০৮-২০২০.pdf__http_/www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৭৪ ১৭-০৮-২০২০.pd/a_.a4.delaye.z
+12:56:53	Warning: 	can not create directory to C:/Users/USER/Videos/https___prottoyon.live_/prottoyon.live/notice/8/_http_/www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৯১ ২০-০৮-২০২০.pdf__http_/www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৯১ ২০-০৮-২০২০.pd/a_.a6.delaye.z
+12:56:59	Error: 	"Error when decompressing" (-1) at link https://prottoyon.live/notice/9/"http://www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৭৪ ১৭-০৮-২০২০.pdf">http://www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৭৪ ১৭-০৮-২০২০.pdf</a> (from https://prottoyon.live/notice/9/চট্টগ্রাম-সিটি-কর্পোরেশনের-বদলিকৃত-ওয়ার্ড-সচিবগনের-তালিকা-)
+12:56:59	Error: 	"Error when decompressing" (-1) at link https://prottoyon.live/notice/8/"http://www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৯১ ২০-০৮-২০২০.pdf">http://www.ccc.org.bd/sites/default/files/notice/অফিস আদেশ-৭৯১ ২০-০৮-২০২০.pdf</a> (from https://prottoyon.live/notice/8/চট্টগ্রাম-সিটি-কর্পোরেশনের-পরবর্তী-কাউন্সিলর-নির্বাচন-পর্যন্ত-সনদ-প্রদানের-দায়িত্ত্বপ্রাপ্ত-কর্মকর্তাদের-তালিকা-)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 42 seconds : 410 links scanned, 404 files written (114596498 bytes overall) [15956784 bytes received at 56584 bytes/sec], 110322919 bytes transferred using HTTP compression in 319 files, ratio 10%, 58.5 requests per connection
+(5 errors, 2 warnings, 0 messages)
